@@ -1,0 +1,5 @@
+site_name: Mk Docs
+nav:
+    - Home: index.md
+    - Control: control.md
+    - About: about.md
